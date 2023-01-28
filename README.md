@@ -1,6 +1,6 @@
 # 💫 About Me:
-i am a fullstack developer working with laravel & vuejs.<br>my passion is to solve real world problem.
-
+I am a fullstack developer working with laravel & vuejs.<br>my passion is to solve real world problem.
+In my free time, love to play open world games.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_khatri_rohan_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohan-khatri) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rohan-khatri) 
